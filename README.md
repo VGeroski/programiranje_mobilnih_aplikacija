@@ -1,2 +1,2 @@
-# programiranje_mobilnih_aplikacija
+# Programiranje mobilnih aplikacija
 Kod za projektni zadatak - Animacije
